@@ -8,3 +8,7 @@ Linux server step by step installation guide
   3- Install PHPMyAdmin to access mysql GUI view
   
   4- Install sendmail to send mails from server
+  
+  5- Setup multiple subdomains on server
+  
+  6- Setup Linux mailserver
